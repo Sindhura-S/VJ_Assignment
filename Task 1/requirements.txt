@@ -1,0 +1,5 @@
+numpy
+pycocotools
+PIL
+tqdm
+matplotlib
