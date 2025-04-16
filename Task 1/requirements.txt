@@ -3,3 +3,4 @@ pycocotools
 PIL
 tqdm
 matplotlib
+opencv-python

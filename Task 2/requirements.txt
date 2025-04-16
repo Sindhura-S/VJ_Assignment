@@ -1,7 +1,9 @@
-cv2
+opencv-python
 torchmetrics
 torch
 torchvision
 numpy
 matplotlib
 albumentations
+tensorborad
+scikit-learn
