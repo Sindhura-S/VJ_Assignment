@@ -16,3 +16,4 @@ This repo contains Task 1 and Task 2 of an image segmentation pipeline:
 - Metrics: IoU, Accuracy (torchmetrics)
 - Logging via TensorBoard
 
+GitHub link: https://github.com/Sindhura-S/VJ_Assignment
